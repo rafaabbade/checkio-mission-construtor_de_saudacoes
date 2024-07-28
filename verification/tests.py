@@ -10,7 +10,7 @@ Each test is a dict with
 
 TESTS = {
     "Basics": [
-        [
+        
     {
         "input": ["João", "2023-03-15"],
         "answer": "Olá, João! Bem-vindo à aula do dia 2023-03-15!"
@@ -19,6 +19,6 @@ TESTS = {
         "input": ["Maria", "2023-03-15"],
         "answer": "Olá, Maria! Bem-vindo à aula do dia 2023-03-15!"
     }
-]
+
     ]
 }
