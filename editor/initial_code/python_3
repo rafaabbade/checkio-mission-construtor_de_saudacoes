@@ -1,1 +1,12 @@
-{{CODIGO INICIAL}}
+def construtor_de_saudacoes(nome_aluno, data_atual):
+    # Seu código aqui
+    return None
+
+print("Example:")
+print(construtor_de_saudacoes("João", "2023-03-15"))
+
+# As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
+assert construtor_de_saudacoes("João", "2023-03-15") == "Olá, João! Bem-vindo à aula do dia 2023-03-15!"
+assert construtor_de_saudacoes("Maria", "2023-03-15") == "Olá, Maria! Bem-vindo à aula do dia 2023-03-15!"
+
+print("Seu código passou pelos testes, clique em Check para avançar!")
